@@ -18,3 +18,9 @@ In this program and referencing the chart in the video tutorial, upper case R is
 # Exercise3.py
 This is a program to test the Collatz Conjecture using While, If and Else statements. See Collatz Conjecture on the web @ https://en.wikipedia.org/wiki/Collatz_conjecture
 The program is commented to include all references used in creating the program.
+
+# Exercise4.py
+Euler Problem 5  - see www.projecteuler.net
+All references used to create this code are commented within the program. The program actually takes too long to compute if you start at 2 (because all numbers are divisible by 1) and increment or counter to 20. Numbers in the range 11-20 are used (although this could also be shortened) because 1-10 is already computed in the question. The start point used is 2520 and increments of 2520 are used (since 1-10 evenly divide into this, this number must evenly divide into the number i'm looking for)  
+
+Answer from program is The LCM of numbers 1-20 is 232792560
