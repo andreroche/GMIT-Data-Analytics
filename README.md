@@ -31,3 +31,5 @@ All references and documentation used for learning are commented within the prog
 Before running this program please ensure that the data set is saved to 'working directory/data/iris.csv'
 The first part of the program reads in the variable data from the data set (which is downloaded to the working directory) and outputs data in an easily readable table within the terminal window. Please extend the window to display correctly.
 The second part of the program uses additional learning. It uses the CSV reader and writer modules and is useful for working with CSV files. It also makes it easier to read in all data but filter it accordingly so only the necessary information is displayed. It gives the user the added benefit of having formatted data in an external file (as opposed to the terminal window) which could be then imported into other application software for analysis etc. 
+
+# Exercise6.py
