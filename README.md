@@ -34,3 +34,4 @@ The second part of the program uses additional learning. It uses the CSV reader 
 
 # Exercise6.py
 A Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. The script tests the function by calling it with the values 5, 7, and 10. It only accepts positive integers i.e. not letters, words, negative numbers or numbers with decimal points.
+If a positive integer is input the program will ask the user to repeat the selection before computing the factorial. The program will continue to ask the user to input a positive integer otherwise. 
