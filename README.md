@@ -33,4 +33,4 @@ The first part of the program reads in the variable data from the data set (whic
 The second part of the program uses additional learning. It uses the CSV reader and writer modules and is useful for working with CSV files. It also makes it easier to read in all data but filter it accordingly so only the necessary information is displayed. It gives the user the added benefit of having formatted data in an external file (as opposed to the terminal window) which could be then imported into other application software for analysis etc. 
 
 # Exercise6.py
-Factorial
+A Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. The script tests the function by calling it with the values 5, 7, and 10. It only accepts positive integers i.e. not letters, words, negative numbers or numbers with decimal points.
