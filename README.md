@@ -1,5 +1,5 @@
 # GMIT-Data Analytics
-Repository for Course Exercises and Projects only. 
+Repository for Course Exercises only. 
 For general testing, learning, major blunders and other scripts please see repository https://github.com/andreroche/Test-Scripts
 
 # exercise2.py
