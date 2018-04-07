@@ -21,4 +21,5 @@ print("The expected factorial for 10 should be 3628800, The results is : ", fact
 
 
 # I am aware that this program can be improved upon. It has a flaw where if the user inputs a positive integer (error checking) and
-# then is prompted to repeat the selection but selects a non positive integer the program crashes. 
+# then is prompted to repeat the selection but selects a non positive integer the program crashes
+# It still runs ok but isn't perfect. 
